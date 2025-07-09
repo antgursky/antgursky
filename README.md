@@ -13,7 +13,7 @@
 ###  Мои проекты
 
 - [Telegram GPT-бот (OpenAI + Yandex.Cloud)](https://github.com/antgursky/telegram_bot_api_gpt)  
-  Учебный проект, где я с нуля разработал Telegram-бота с подключением к OpenAI. Бот развёрнут на Yandex Cloud Functions, хранит переписку в Object Storage и поддерживает разные стили общения. Использовал Python, Telebot, OpenAI API, S3, Cloud Functions. Отличный пример автоматизации и работы с API.
+  Небольшой проект, где я разработал Telegram-бота с подключением к OpenAI. Бот развёрнут на Yandex Cloud Functions, хранит переписку в Object Storage и поддерживает разные стили общения. Использовал Python, Telebot, OpenAI API, S3, Cloud Functions. Отличный пример автоматизации и работы с API. Цель - сделать мини-помощника коллегам из своего отдела.
 
 
 
